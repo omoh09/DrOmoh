@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>My HNG TASK</title>
+<meta name="" content="">
+<style>
+	body{
+		width: 70%;
+		margin-top: 5%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+</style>
+</head>
+<body>
+	<ul>
+		<li><h3>Full name: </h3>	 Gabriel Ifoga </li>
+		<li><h3>Email address: </h3>	 gabrielifoga@yahoo.com </li>
+		<li><h3>Slack username: </h3>	 DrOmoh </li>
+		<li><h3>Tracks: </h3>	 Back End </li>
+		<li><h3>Courses: </h3>	 PHP, Python, Go </li>
+	</ul>
+	
+</body>
+</html>
